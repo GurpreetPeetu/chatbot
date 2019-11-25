@@ -1,0 +1,3 @@
+ERROR: chatterbot 1.0.5 has requirement pyyaml<5.2,>=5.1, but you'll have pyyaml 3.13 which is incompatible. 
+
+when we are use this pip install chatterbot_corpus 
